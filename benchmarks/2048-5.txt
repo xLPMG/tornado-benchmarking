@@ -1,0 +1,4 @@
+Running GEMM benchmark with size 2048 for 5 iterations
+Sequential execution time: 1021817ms
+Parallel execution time: 248ms
+Speedup: 4120.23
