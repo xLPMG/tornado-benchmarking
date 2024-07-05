@@ -1,0 +1,9 @@
+Running GEMM benchmark with size 1024 for 10 iterations
+Sequential execution time: 9477.0ms
+Sequential GFLOPS: 2.265995196792234
+Sequential TFLOPS: 0.002265995196792234
+====================================
+Parallel execution time: 567.0ms
+Parallel GFLOPS: 37.874491146384486
+Parallel TFLOPS: 0.037874491146384484
+Speedup: 16.714285
